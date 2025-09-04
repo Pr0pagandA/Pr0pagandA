@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+University of Chicago Freshman
+Hometown: Highland Park New Jersey
+Contact: astrub@uchicago.edu
+
+🤔 I’d love some help with digraph generation
+😄 Pronouns: he/him/his
 <!--
 **Pr0pagandA/Pr0pagandA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
