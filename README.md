@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 University of Chicago Freshman
+
 Hometown: Highland Park New Jersey
 Contact: astrub@uchicago.edu
 
